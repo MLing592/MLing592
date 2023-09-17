@@ -1,56 +1,41 @@
-<!--咱也不知道要不要大标题, 就酱紫罢--> 
-# Hi, Saplonily here
+<!--咱也不知道要不要大标题, 就酱紫罢，这么优秀的注释当然不能删除了--> 
+# Hi, I am MLing592,I am here
 
-<!--真的不会排版啊啊啊-->
+<!--真的不会排版啊啊啊,这么优秀的注释当然不能删除了-->
 <img align="right" src="https://api.githubtrends.io/user/svg/Saplonily/langs?time_range=one_year&loc_metric=changed&theme=classic" />
 
-个人破站 -> [ Saplonily 的小破站](https://saplonily-site.ml)  
+<!--个人破站 -> [ Saplonily 的小破站](https://saplonily-site.ml) --> 
 
-~~应该是 coder 废物一个~~不是应该，是绝对 awa
+## ~~一个喜欢写代码的普通人
+~~A regular person who enjoys coding.
 
 今日的卑微访客人数:  
-![vistors](https://count.getloli.com/get/@Saplonily?theme=moebooru)
+![vistors](https://count.getloli.com/get/@MLing592?theme=moebooru)
 
 ### 语言相关:
-- 主推/最喜欢: c#, cpp
-- 入坑: gml
-- 曾学过点: python, html/css/js
-- 想学: f#
+- 主推/最喜欢 😍: c#, c++
+- 实际职业 😥: Is an engineer，作为一名攻城狮，学亿点点编程语言也是很合理的
+- 曾学过点 😧: python, html/css/js, c, vbs, vb.net...
+- 其他 😧：vue ,uniapp ,winform , wpf, maui...
+- 正在学 😍: tcp, udp, socket, http, mqtt, modbus, s7, mc, openProtocol...
+- 想学 😢: c++(喜欢但很菜)
 
 
 ****
 
-### 项目(优先级排序):
-- [ ] 💤在一生之内摸完 mve (?
-- [ ] 🍓蔚蓝的一些碎碎的 mod
-- [x] 🕸[个人站](https://saplonily-site.ml)
-- [x] 👀 *Saladim.QBot* 的使用 *go-cqhttp* 实现  
 
-### 学习(优先级排序):
-- [ ] 图形学(?
-- [ ] wpf / Avalonia
-- [ ] Godot
+<img align="right" src="https://api.githubtrends.io/user/svg/MLing592/repos?time_range=one_year&group=other&loc_metric=changed&theme=classic"/>
 
-### Waiting:
-- [x] 摸鱼
-- [ ] 等 .NET 8 发布
-- [ ] 等 Godot4.x stable 发布
+### 闲谈
+
+🤔 偶尔 coding，看看大佬们的 code，fork一下仓库，pull一下request<br />
+🍕 目前主要关注万物互联：计算机网络通信
 
 
-<img align="right" src="https://api.githubtrends.io/user/svg/Saplonily/repos?time_range=one_year&group=other&loc_metric=changed&theme=classic"/>
-
-### 杂碎的东西
-
-🤔 如果你有什么issue,pr,discussion之类的随便提,我反正闲着qwq  
-🍕 项目提的什么需求我也会尽量实现的awa  
- 
-目前正在 [Saladim](https://github.com/saladim-org) 里摸鱼(虽然我也不知道为什么要建个org, 算了当个黑历史罢uwu
-
-<img src="https://github-readme-stats.vercel.app/api?username=Saplonily"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MLing592"/>
 
 ### Contact with me
-- 💬 邮箱 [Saplonily@outlook.com](mailto:Saplonily@outlook.com)
-- 💬 [Bilibili](https://space.bilibili.com/39046375/dynamic)
+- 💬 QQ [2362022720] 请务必备注来意
+- 💬 [Bilibili](https://space.bilibili.com/385217413/dynamic)
 
 ![.neter](https://img.shields.io/badge/-.NETer-%23badff4)
-![BADFF4](https://img.shields.io/badge/-%23BADFF4-%23badff4)
